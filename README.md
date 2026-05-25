@@ -28,9 +28,9 @@
 - 🤝 I’m looking for help with: **FullstackDev**
 - 💬 Ask me about: **Tensorflow & pytorch**
 - 📫 How to reach me: **leducduy.899@gmail.com**
-- 🎓 Education: ** Tran Phu Gifted High School. Major Math & Computer Science at TSU (ММФ - Математика и Компьютерные Науки ТГУ).
-- ⚡ Fun fact: ** I can communicate w/ ya in Vietnamese, English, Russian and a tiny bit in Japanese(still learning) ^^**
-- ☕ **Fuel:** Powered mainly by Egg Coffee and Tea!
+- 🎓 Education: **Tran Phu Gifted High School. Major Math & Computer Science at TSU (ММФ - Математика и Компьютерные Науки ТГУ).**
+- ⚡ Fun fact: **I can communicate w/ ya in Vietnamese, English, Russian and a tiny bit in Japanese(still learning) ^^**
+- ☕ Fuel:**Powered mainly by Egg Coffee and Tea!**
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
