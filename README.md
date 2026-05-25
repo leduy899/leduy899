@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm Anderson Le 
+  Привет Всем👋, I'm Anderson Le 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5anFnbHRtNTlidXIwM2pyNDMxeDgxZDFvMWN4YXU5aWl1cHd4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="150">
 </h1>
 <div align="center">
